@@ -11,6 +11,6 @@ Meal-Kit 프로그램
 * 23.11.10 ~ 23.11.27
 
 ### ⚙ 개발 환경
-- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=C sharp&logoColor=white">
+- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"><img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=C sharp&logoColor=white">
 
 -  <img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge">
