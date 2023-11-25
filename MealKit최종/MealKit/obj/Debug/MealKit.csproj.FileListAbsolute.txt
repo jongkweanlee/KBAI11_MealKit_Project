@@ -1,0 +1,494 @@
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\RestSharp.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Memory.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.검색결과창.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.광고.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.로그인.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.지도.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.회원가입.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.구매창.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.메인화면.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.양식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.일식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.장바구니.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.중식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.한식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.회원정보.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\MealKit\MealKit\obj\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\RestSharp.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Memory.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.검색결과창.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.광고.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.로그인.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.지도.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.회원가입.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.구매창.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.메인화면.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.양식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.일식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.장바구니.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.중식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.한식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.회원정보.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\11-15(총가격패치전)\MealKit\obj\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\RestSharp.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Memory.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.검색결과창.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.광고.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.로그인.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.지도.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.회원가입.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.구매창.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.메인화면.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.양식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.일식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.장바구니.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.중식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.한식.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.회원정보.resources
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\23년 인공지능 11차\작업물 폴더\c#\백업\(구매창 진행중)\MealKit\obj\Debug\MealKit.주문완료.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\MealKit.exe
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\MealKit.pdb
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\RestSharp.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Memory.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.exe
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.pdb
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.DAUM_Api_ZipCode.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Login.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Main_Form.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Create_Account.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Search_Results.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.My_Page.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Advertisement.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Order_Complete.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Purchase_Window.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Western_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Japanese_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Item_Basket.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.China_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Korean_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Withdraw_Check.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\RestSharp.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Memory.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.DAUM_Api_ZipCode.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Search_Results.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Advertisement.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Login.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Order_Complete.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Create_Account.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Purchase_Window.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Main_Form.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Western_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Japanese_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Item_Basket.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.China_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Korean_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.My_Page.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.Withdraw_Check.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\(구매창 진행중) (2)\MealKit\obj\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\MealKit.pdb
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\RestSharp.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Memory.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.DAUM_Api_ZipCode.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Purchase_History.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Search_Results.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Advertisement.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Login.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Order_Complete.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Create_Account.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Purchase_Window.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Main_Form.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Western_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Japanese_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Item_Basket.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.China_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Korean_Food.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.My_Page.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.Withdraw_Check.resources
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.exe
+C:\Users\xenoi\OneDrive\바탕 화면\새 압축Day11_23\오류수정완료\MealKit\obj\Debug\MealKit.pdb
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\MealKit.exe
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\MealKit.pdb
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\RestSharp.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Memory.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.DAUM_Api_ZipCode.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Purchase_History.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Search_Results.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Advertisement.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Login.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Order_Complete.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Create_Account.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Purchase_Window.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Main_Form.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Western_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Japanese_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Item_Basket.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.China_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Korean_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.My_Page.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.Withdraw_Check.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.exe
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\오류수정완료 두번째\MealKit\obj\Debug\MealKit.pdb
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\MealKit.exe.config
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\MealKit.exe
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\MealKit.pdb
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\RestSharp.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Buffers.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.CodeDom.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Data.Odbc.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Data.OleDb.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Drawing.Common.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.IO.Packaging.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.IO.Ports.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Memory.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Security.Permissions.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.csproj.AssemblyReference.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.DAUM_Api_ZipCode.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Purchase_History.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Search_Results.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Advertisement.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Login.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Order_Complete.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Create_Account.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.UC_PayMent.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Purchase_Window.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Main_Form.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Western_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Japanese_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Item_Basket.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Properties.Resources.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.UC_CartItem.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.UC_Item.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.China_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Korean_Food.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.My_Page.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.Withdraw_Check.resources
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.csproj.GenerateResource.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.csproj.CoreCompileInputs.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.csproj.Fody.CopyLocal.cache
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.csproj.CopyComplete
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.exe
+C:\Users\jongk\OneDrive\바탕 화면\오류수정완료 두번째\최종본\MealKit\obj\Debug\MealKit.pdb
