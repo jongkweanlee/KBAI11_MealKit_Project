@@ -11,5 +11,5 @@ Meal-Kit 프로그램
 * 23.11.10 ~ 23.11.27
 
 ### ⚙ 개발 환경
-- <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">
 -  <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge">
