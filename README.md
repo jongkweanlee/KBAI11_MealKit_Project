@@ -11,5 +11,4 @@ Meal-Kit 프로그램
 * 23.11.10 ~ 23.11.27
 
 ### ⚙ 개발 환경
--  <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/2.7.13-515151?style=for-the-badge">
-출처: https://explored.tistory.com/47 [Hellow world!!:티스토리]
+-  <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge">
